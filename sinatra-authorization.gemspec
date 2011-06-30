@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 Gem::Specification.new do |s|
   s.name     = "sinatra-authorization"
   s.rubyforge_project = "integrity"

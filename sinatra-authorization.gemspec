@@ -1,5 +1,3 @@
-# encoding: UTF-8
-
 Gem::Specification.new do |s|
   s.name     = "sinatra-authorization"
   s.rubyforge_project = "integrity"
@@ -9,7 +7,7 @@ Gem::Specification.new do |s|
   s.description  = "HTTP Authorization helpers for Sinatra."
   s.homepage = "http://github.com/integrity/sinatra-authorization"
   s.email    = "info@integrityapp.com"
-  s.authors  = ["Nicolás Sanguinetti", "Simon Rozet"]
+  s.authors  = ["Nicolas Sanguinetti", "Simon Rozet"]
   s.has_rdoc = false
   s.files    = %w[
 README.rdoc
